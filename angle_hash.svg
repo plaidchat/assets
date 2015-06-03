@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="angle_hash.svg"
-   inkscape:export-filename="&gt;#.png"
+   inkscape:export-filename="dist/angle_hash.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -73,7 +73,7 @@
     <image
        sodipodi:absref="/home/todd/github/slack-for-linux-assets/resources/slack_rgb.png"
        xlink:href="resources/slack_rgb.png"
-       y="916.3623"
+       y="914.3623"
        x="116.00012"
        id="image3047"
        height="63.999756"
