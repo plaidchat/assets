@@ -23,11 +23,6 @@
      id="defs2989">
     <pattern
        inkscape:collect="always"
-       xlink:href="#pattern7433"
-       id="pattern7452"
-       patternTransform="matrix(1.1111111,0,0,1.1111111,-275.08472,837.55489)" />
-    <pattern
-       inkscape:collect="always"
        xlink:href="#pattern7437"
        id="pattern7442"
        patternTransform="translate(-3.203125e-6,1.9394531e-5)" />
@@ -303,7 +298,7 @@
      pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.67"
      inkscape:cx="-34.810757"
