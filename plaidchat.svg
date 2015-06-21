@@ -14,7 +14,7 @@
    id="svg2987"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="plaidchat.svg">
   <defs
      id="defs2989" />
   <sodipodi:namedview
@@ -22,19 +22,20 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="1"
+     inkscape:cx="100"
+     inkscape:cy="100"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1053"
-     inkscape:window-x="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showborder="true" />
   <metadata
      id="metadata2992">
     <rdf:RDF>
@@ -51,5 +52,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-852.36218)" />
+     transform="translate(0,-852.36218)">
+    <g
+       id="g3032"
+       transform="matrix(0.35217123,0,0,0.35217123,239.50688,764.62685)">
+      <g
+         id="g3016"
+         transform="translate(-651,276)">
+        <g
+           id="g3018">
+          <path
+             id="path3020"
+             d="M 120,435.314 V 360 H 80 C 66.767,360 56,349.234 56,336 V 112 C 56,98.766 66.767,88 80,88 h 352 c 13.233,0 24,10.766 24,24 v 224 c 0,13.234 -10.767,24 -24,24 H 195.313 L 120,435.314 z M 80,104 c -4.411,0 -8,3.589 -8,8 v 224 c 0,4.411 3.589,8 8,8 h 56 v 52.686 L 188.687,344 H 432 c 4.411,0 8,-3.589 8,-8 V 112 c 0,-4.411 -3.589,-8 -8,-8 H 80 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
