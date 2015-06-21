@@ -20,6 +20,31 @@
      id="defs2989">
     <pattern
        inkscape:collect="always"
+       xlink:href="#pattern7437"
+       id="pattern7442"
+       patternTransform="translate(-3.203125e-6,1.9394531e-5)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7430"
+       id="pattern7437"
+       patternTransform="translate(-275.08472,837.55489)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7428"
+       id="pattern7433"
+       patternTransform="matrix(1.1111111,0,0,1.1111111,-4.6289063e-6,4.4531251e-6)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7419"
+       id="pattern7428"
+       patternTransform="matrix(1.1111111,0,0,1.1111111,-278.45551,829.31519)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern7417"
+       id="pattern7422"
+       patternTransform="matrix(0.99997779,0,0,0.9999889,5.3710938e-6,-5.5468748e-6)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#pattern7365"
        id="pattern7417"
        patternTransform="matrix(0.99997779,0,0,0.9999889,-278.4555,839.31518)" />
@@ -126,6 +151,48 @@
            id="polygon3859" />
       </g>
     </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="90"
+       height="90"
+       patternTransform="translate(-278.45551,839.31519)"
+       id="pattern7419">
+      <rect
+         id="rect7391"
+         y="1.1368684e-13"
+         x="0"
+         height="90"
+         width="90"
+         style="fill:url(#pattern7422);stroke:none" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="100"
+       height="100"
+       patternTransform="translate(-278.45551,829.31519)"
+       id="pattern7430">
+      <rect
+         id="rect7424"
+         y="1.1368684e-13"
+         x="0"
+         height="100"
+         width="100"
+         style="fill:url(#pattern7433);stroke:none" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="100"
+       height="100"
+       patternTransform="translate(-275.08472,837.55487)"
+       id="pattern7439">
+      <rect
+         id="rect7435"
+         y="1.1368684e-13"
+         x="0"
+         height="100"
+         width="100"
+         style="fill:url(#pattern7442);stroke:none" />
+    </pattern>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -165,18 +232,21 @@
      transform="translate(0,-852.36218)">
     <g
        id="g3032"
-       transform="matrix(0.35217123,0,0,0.35217123,239.50688,764.62685)">
+       transform="matrix(0.35217123,0,0,0.35217123,239.50688,764.62685)"
+       style="fill:url(#pattern7439);fill-opacity:1.0">
       <g
          id="g3016"
-         transform="translate(-651,276)">
+         transform="translate(-651,276)"
+         style="fill:url(#pattern7439);fill-opacity:1.0">
         <g
-           id="g3018">
+           id="g3018"
+           style="fill:url(#pattern7439);fill-opacity:1.0">
           <path
              id="path3020"
              d="M 120,435.314 120,360 80,360 C 66.767,360 56,349.234 56,336 L 56,112 C 56,98.766 66.767,88 80,88 l 352,0 c 13.233,0 24,10.766 24,24 l 0,224 c 0,13.234 -10.767,24 -24,24 l -236.687,0 z"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccsssssssscc"
-             style="fill:url(#pattern7365);fill-opacity:1.0" />
+             style="fill:url(#pattern7439);fill-opacity:1.0" />
         </g>
       </g>
     </g>
@@ -189,11 +259,11 @@
        y="-103"
        transform="translate(0,852.36218)" />
     <rect
-       style="fill:url(#pattern7417);stroke:none"
-       width="90"
-       height="90"
-       x="-278.45551"
-       y="839.31519"
-       id="rect7391" />
+       style="stroke:none;fill:url(#pattern7439)"
+       width="100"
+       height="100"
+       x="-275.08472"
+       y="837.55487"
+       id="rect7444" />
   </g>
 </svg>
